@@ -19,12 +19,18 @@
 
 [4. 향후 확장 계획](#향후-확장-계획)
 
+[5. 폐쇄된 기능](#폐쇄된-기능)
+
 # 프로젝트 개요
 
 ![Logo](assets/LOGO.png)
 
 "반노트"는 학급(반)의 모든 것을 기록하고 관리하는 프로젝트입니다.
 이름처럼 반을 위한 노트이자, 일본어로 '만능(万能)'이라는 뜻도 담고 있습니다.
+
+🟢 서비스 주소: https://bannote.org
+
+※ 본 시스템은 학급 전용으로, `@yju.ac.kr`의 학교 이메일로만 로그인할 수 있습니다.
 
 # 프로젝트 기능
 
@@ -34,10 +40,10 @@
 개인별 통계를 제공하여 자신의 학습 패턴을 확인할 수 있습니다.
 또한, 랭킹 기능을 통해 다른 학생들과의 선의의 경쟁을 유도합니다.
 
-<img src="assets/ko/fingerprint_client.png" alt="fingerprint_client" width="500px">
+<img src="assets/ko/fingerprint_client.png" alt="fingerprint_client" width="600px">
 
 - 🔗 [Fingerprint Client (Raspberry)](https://github.com/Bannote/Fingerprint-client)
-- 🔗 [Bannote Backend (Spring)](https://github.com/Bannote/Fingerprint-client)
+- 🔗 [Bannote Backend (Spring)](https://github.com/kyumin1227/Fingerprint_Backend)
 
 ## 2. 청소 관리
 
@@ -47,7 +53,7 @@
 ![Clean Page](assets/ko/clean_page.png)
 
 - 🔗 [청소 스케줄 페이지](https://bannote.org/src/pages/clean/clean.html)
-- 🔗 [Bannote Backend (Spring)](https://github.com/Bannote/Fingerprint-client)
+- 🔗 [Bannote Backend (Spring)](https://github.com/kyumin1227/Fingerprint_Backend)
 
 ## 3. 챗봇 및 알림 시스템
 
@@ -55,8 +61,8 @@
 
 ![LINE Chatbot](assets/ko/line_chatbot.png)
 
-- 🔗 [Bannote (LINE)](https://line.me/R/ti/p/@157fxsqo)
-- 🔗 [Bannote Backend (Spring)](https://github.com/Bannote/Fingerprint-client)
+- 🔗 [Bannote (LINE 챗봇)](https://line.me/R/ti/p/@157fxsqo)
+- 🔗 [Bannote Backend (Spring)](https://github.com/kyumin1227/Fingerprint_Backend)
 
 # 프로젝트 구조
 
@@ -80,9 +86,10 @@
 
 ## 야자 투표 및 열쇠 관리 시스템 (2024.05 ~ 2024.07)
 
-[삭제 버전](https://github.com/kyumin1227/Fingerprint_Backend/releases/tag/alpha)
+해당 기능은 현재 폐쇄되었습니다.
+[관련 릴리스 버전 보기](https://github.com/kyumin1227/Fingerprint_Backend/releases/tag/alpha)
 
 ## 이전 프론트엔드 페이지 (2024.05 ~ 2024.07)
 
-야자 투표 및 열쇠 관리 기능 삭제에 따른 삭제
+야자 투표 및 열쇠 관리 기능 삭제로 함께 폐쇄되었습니다.
 [Fingerprint Frontend](https://github.com/kyumin1227/Fingerprint_Frontend)
