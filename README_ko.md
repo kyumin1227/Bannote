@@ -17,9 +17,11 @@
 
 [3. 프로젝트 구조](#프로젝트-구조)
 
-[4. 향후 확장 계획](#향후-확장-계획)
+[4. API 문서](#api-문서)
 
-[5. 폐쇄된 기능](#폐쇄된-기능)
+[5. 향후 확장 계획](#향후-확장-계획)
+
+[6. 폐쇄된 기능](#폐쇄된-기능)
 
 # 프로젝트 개요
 
@@ -67,6 +69,13 @@
 # 프로젝트 구조
 
 ![프로젝트 구조도](assets/architecture-overview_ko.png)
+
+# API 문서
+
+API 명세는 Swagger 문서로 자동 생성되며, 아래 링크에서 확인할 수 있습니다.  
+본 문서는 GitHub Actions를 통해 GitHub Pages로 자동 배포되며, 항상 최신 상태로 유지됩니다.
+
+🔗 [Swagger UI 문서 보기](https://kyumin1227.github.io/Fingerprint_Backend)
 
 # 향후 확장 계획
 

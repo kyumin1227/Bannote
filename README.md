@@ -68,6 +68,13 @@ LINE および KakaoTalk を通じて、指紋認証や清掃管理の通知お�
 
 ![プロジェクト構成図](assets/architecture-overview_ja.png)
 
+# API ドキュメント
+
+API 仕様は Swagger により自動生成されており、以下のリンクからご確認いただけます。  
+このドキュメントは GitHub Actions により GitHub Pages に自動デプロイされており、常に最新の状態が保たれています。
+
+🔗 [Swagger UI ドキュメントを見る](https://kyumin1227.github.io/Fingerprint_Backend)
+
 # 今後の拡張計画
 
 ## MSA 構造への移行
