@@ -49,6 +49,8 @@
 - 🔗 [Fingerprint Client (Raspberry)](https://github.com/Bannote/Fingerprint-client)
 - 🔗 [Bannote Backend (Spring)](https://github.com/kyumin1227/Fingerprint_Backend)
 
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/64szwdfIOk4)
+
 ## 2. 청소 관리
 
 청소 관리 시스템입니다. 각 구역별로 담당하는 학생들의 스케줄을 랜덤으로 배정합니다.

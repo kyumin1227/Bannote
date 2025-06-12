@@ -49,6 +49,8 @@
 - 🔗 [Fingerprint Client (Raspberry)](https://github.com/Bannote/Fingerprint-client)
 - 🔗 [Bannote Backend (Spring)](https://github.com/kyumin1227/Fingerprint_Backend)
 
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/64szwdfIOk4)
+
 ## 2. 清掃管理システム
 
 清掃管理システムでは、各エリアごとに担当学生のスケジュールをランダムに割り当てます。
